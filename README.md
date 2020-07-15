@@ -1,2 +1,2 @@
 # ArSCADA
-SCADA FOR ARSENAL
+SCADA система для управления компрессором #######
